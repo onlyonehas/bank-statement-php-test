@@ -1,4 +1,4 @@
-Welcome to the Currency Solutions Test Pack.
+Welcome to the Currency Test.
 
 Your test pack includes:
 * This readme file
@@ -32,4 +32,3 @@ Instructions:
 * Execution of a script should not take longer than 30 seconds.
 * Completion of this task should not take longer than 2 hours of your time.
 * We want to check your application architecture skills so use the OOP paradigm please.
-* We ask you not to publish your solution to this task anywhere.
